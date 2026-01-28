@@ -94,12 +94,3 @@ const education = new Map<string, string>([
 export default new ProfessionalHistory();
 
 
-```bash
-# TERMINAL OUTPUT
-# ---------------------------------------
-$ user --status
-> Status: Open to Opportunities
-> Location: Global / Remote
-> Loading Assets... [||||||||||] 100%
-> Ready.
-```
